@@ -1,0 +1,73 @@
+Nombre de host:                            DESKTOP-8URFH3T
+Nombre del sistema operativo:              Microsoft Windows 10 Pro
+Versión del sistema operativo:             10.0.19044 N/D Compilación 19044
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuración del sistema operativo:       Estación de trabajo independiente
+Tipo de compilación del sistema operativo: Multiprocessor Free
+Propiedad de:                              Usaurio
+Organización registrada:
+Id. del producto:                          00331-10000-00001-AA653
+Fecha de instalación original:             22/3/2021, 03:40:17
+Tiempo de arranque del sistema:            17/6/2022, 04:55:49
+Fabricante del sistema:                    MSI
+Modelo el sistema:                         MS-7721
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: AMD64 Family 21 Model 19 Stepping 1 AuthenticAMD ~3500 Mhz
+Versión del BIOS:                          American Megatrends Inc. V8.4, 10/8/2016
+Directorio de Windows:                     C:\WINDOWS
+Directorio de sistema:                     C:\WINDOWS\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuración regional del sistema:        es-mx;Español (México)
+Idioma de entrada:                         es-mx;Español (México)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Cantidad total de memoria física:          7.384 MB
+Memoria física disponible:                 2.532 MB
+Memoria virtual: tamaño máximo:            15.374 MB
+Memoria virtual: disponible:               6.308 MB
+Memoria virtual: en uso:                   9.066 MB
+Ubicación(es) de archivo de paginación:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesión:              \\DESKTOP-8URFH3T
+Revisión(es):                              14 revisión(es) instaladas.
+                                           [01]: KB5013887
+                                           [02]: KB4562830
+                                           [03]: KB4577586
+                                           [04]: KB4580325
+                                           [05]: KB4589212
+                                           [06]: KB5003791
+                                           [07]: KB5014699
+                                           [08]: KB5006753
+                                           [09]: KB5007273
+                                           [10]: KB5011352
+                                           [11]: KB5011651
+                                           [12]: KB5014032
+                                           [13]: KB5014035
+                                           [14]: KB5005699
+Tarjeta(s) de red:                         5 Tarjetas de interfaz de red instaladas.
+                                           [01]: LogMeIn Hamachi Virtual Ethernet Adapter
+                                                 Nombre de conexión: Ethernet 2
+                                                 Estado:             Hardware ausente
+                                           [02]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexión: VirtualBox Host-Only Network
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::e456:b3f6:b5b5:3ce2
+                                           [03]: Realtek PCIe GbE Family Controller
+                                                 Nombre de conexión: Ethernet
+                                                 Estado:             Medios desconectados
+                                           [04]: TP-Link Wireless N PCI Express Adapter
+                                                 Nombre de conexión: Wi-Fi 2.4
+                                                 Estado:             Hardware ausente
+                                           [05]: TP-Link Wireless MU-MIMO USB Adapter
+                                                 Nombre de conexión: Wi-Fi 5.8
+                                                 DHCP habilitado:    Sí
+                                                 Servidor DHCP:      192.168.0.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.0.222
+                                                 [02]: fe80::3515:272d:bf2d:d8e9
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: Sí
+                                           Se habilitó la virtualización en el firmware: Sí
+                                           Traducción de direcciones de segundo nivel: Sí
+                                           La prevención de ejecución de datos está disponible: Sí
