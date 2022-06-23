@@ -1,3 +1,5 @@
+Valentin Ferrero:
+
 a-¿Como queda El master después de estos cambios?
   CPUAlfa.txt
   CPUBeta.txt
@@ -14,6 +16,8 @@ c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merg
   Hacer el commit(git commit -m "Actualiza Beta")
   Hacer el push(git push)
   
+Nicolas Navarrete:
+
 d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
 gamma queda actualizada hasta que beta hace el merge en su rama, por lo tanto beta si queda actualizada y gamma no
 
@@ -37,3 +41,15 @@ git add .
 git commit -m "editado por gamma"
 
 git push origin ferrero
+
+Brandon Suarez:
+
+Los comandos que utilice para el punto 8 son: 
+
+$ git checkout main
+
+$ git checkout ferrero
+
+$ git commit -m "Parte Alfa"
+
+$ git push
