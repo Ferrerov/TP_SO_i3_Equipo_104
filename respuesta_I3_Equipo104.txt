@@ -13,3 +13,27 @@ c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merg
   Hacer el add(git add .)
   Hacer el commit(git commit -m "Actualiza Beta")
   Hacer el push(git push)
+  
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+gamma queda actualizada hasta que beta hace el merge en su rama, por lo tanto beta si queda actualizada y gamma no
+
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+no hubo ningun problema
+
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+
+git status
+
+git checkout ferrero
+
+git checkout main
+
+git pull
+
+git checkout ferrero
+
+git add .
+
+git commit -m "editado por gamma"
+
+git push origin ferrero
