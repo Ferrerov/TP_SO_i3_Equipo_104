@@ -62,3 +62,27 @@ Adaptador de LAN inalámbrica Wi-Fi 5.8:
    Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.222
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Suarez Brandon
+
+Windows IP configuracion:
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2800:810:42d:63a::1000
+   Dirección IPv6 . . . . . . . . . . : 2800:810:42d:63a:e507:9d11:5342:2227
+   Dirección IPv6 temporal. . . . . . : 2800:810:42d:63a:ec72:1192:935a:9183
+   Vínculo: dirección IPv6 local. . . : fe80::e507:9d11:5342:2227%16
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.61
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::2a9e:fcff:fe42:377f%16
+                                       192.168.0.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::6936:a9:5697:afc1%11
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
