@@ -1,0 +1,27 @@
+Ferrero Valentin
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . :
+   IPv6 Address. . . . . . . . . . . : 2800:40:28:121b:a5d3:60e3:e01a:be0d
+   Temporary IPv6 Address. . . . . . : 2800:40:28:121b:5d62:1879:321b:8b6a
+   Temporary IPv6 Address. . . . . . : 2800:40:28:121b:885b:44dc:9315:5e08
+   Temporary IPv6 Address. . . . . . : 2800:40:28:121b:9107:b735:b6d4:ef00
+   Link-local IPv6 Address . . . . . : fe80::a5d3:60e3:e01a:be0d%21
+   IPv4 Address. . . . . . . . . . . : 192.168.1.2
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::1%21
+                                       192.168.1.1
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::2410:211c:f423:b150%22
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+Hora: 17:15
